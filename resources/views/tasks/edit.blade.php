@@ -60,3 +60,4 @@
 @section('scripts')
   @include('share.flatpickr.scripts')
 @endsection
+
