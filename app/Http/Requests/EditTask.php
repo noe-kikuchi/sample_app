@@ -59,6 +59,3 @@ class EditTask extends CreateTask
         ];
     }
 }
-
-
-
